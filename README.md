@@ -44,4 +44,4 @@ Please note that files specifying residents unavailable dates and holidays must 
 
 ## Support
 
-For questions regarding the code, users can email the developer, Mac Singer, at [maxwell.singer@yale.edu](mailto:maxwell.singer@yale.edu).
+For questions regarding the code, users can email the developer, Maxwell Singer, MD, at [maxwell.singer@yale.edu](mailto:maxwell.singer@yale.edu).
