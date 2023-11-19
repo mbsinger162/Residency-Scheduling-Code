@@ -36,6 +36,12 @@ Below are instructions on how to use the provided code to automatically generate
    - Produces `google_calendar_schedule.csv`.
    - Modify the doctor name legend so that numbers on `schedule.csv` correspond to resident names as per `resident_unavailable_dates.csv`.
 
+### Web App with User Interface!
+
+Those who wish to generate their own call schedules through a user interface, rather than executing python code, can use our [website](https://yaleophthopgy2callschedule.streamlit.app/).
+
+Please note that files specifying residents unavailable dates and holidays must be csv files formatted as is specified above for **`resident_unavailable_dates.csv`** and **`holidays.csv`**. Users may reference these spreadsheets as a guide for formatting when developing their own personalized csv files.
+
 ## Support
 
 For questions regarding the code, users can email the developer, Mac Singer, at [maxwell.singer@yale.edu](mailto:maxwell.singer@yale.edu).
